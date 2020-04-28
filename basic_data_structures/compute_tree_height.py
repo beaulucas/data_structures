@@ -70,6 +70,7 @@ class TreeHeight:
     # loop through nodes and find depth
     for child in children:
       for each_child in child:
+        pass
 
     depth = sum(x is not None for x in children) + 1
     return depth
