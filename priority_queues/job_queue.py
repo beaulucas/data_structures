@@ -1,5 +1,5 @@
 # python3
-from heapq import heappush, heappop, heappushpop, heapify
+from heapq import heappush, heappop
 
 
 def assign_jobs(n_workers, jobs):
